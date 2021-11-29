@@ -32,7 +32,7 @@ def get_emails_enabled(user, course_id):
         False otherwise
     """
     if is_bulk_email_feature_enabled(course_id=course_id) and not is_bulk_email_disabled_for_course(course_id):
-            return not is_user_opted_out_for_course(user=user, course_id=course_id)
+        return not is_user_opted_out_for_course(user=user, course_id=course_id)
     return None
 
 
