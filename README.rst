@@ -63,7 +63,7 @@ For more information about these options, see the `Getting Help`_ page.
 Issue Tracker
 -------------
 
-We use JIRA for our issue tracker, not GitHub issues. You can search
+We use JIRA for our only issue tracker, not GitHub issues. You can search
 `previously reported issues`_.  If you need to report a problem,
 please make a free account on our JIRA and `create a new issue`_.
 
