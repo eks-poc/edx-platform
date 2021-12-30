@@ -28,7 +28,7 @@ unless otherwise noted. Please see the `LICENSE`_ file for details.
 .. _LICENSE: https://github.com/edx/edx-platform/blob/master/LICENSE
 
 
-More about Open edX
+More about Open edX (just an update to trigger unit tests)
 -------------------
 
 See the `Open edX site`_ to learn more about the Open edX world. You can find
