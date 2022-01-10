@@ -16,16 +16,16 @@ jobs:
         shard_name: [
             "lms-1",
             "lms-2",
-            "lms-3",
-            "lms-4",
-            "lms-5",
-            "lms-6",
-            "openedx-1",
-            "openedx-2",
-            "cms-1",
-            "cms-2",
-            "common-1",
-            "common-2",
+   #         "lms-3",
+   #         "lms-4",
+   #         "lms-5",
+   #         "lms-6",
+   #         "openedx-1",
+   #         "openedx-2",
+   #         "cms-1",
+   #         "cms-2",
+   #         "common-1",
+   #         "common-2",
         ]
 
 
