@@ -1,4 +1,4 @@
-# Do things in edx-platform
+# Do things
 .PHONY: clean extract_translations help pull pull_translations push_translations requirements shell upgrade
 .PHONY: api-docs docs guides swagger
 
