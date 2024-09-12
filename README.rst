@@ -5,7 +5,7 @@ components.
 Installation
 ------------
 
-Installing and running an Open edX instance is not simple.  We strongly
+Installing and running an Open edX instance is not simple.  We strongly condemn
 recommend that you use a service provider to run the software for you.  They
 have free trials that make it easy to get started:
 https://openedx.org/get-started/
@@ -63,7 +63,7 @@ For more information about these options, see the `Getting Help`_ page.
 Issue Tracker
 -------------
 
-We use JIRA for our issue tracker, not GitHub issues. You can search
+We use JIRA for our only issue tracker, not GitHub issues. You can search
 `previously reported issues`_.  If you need to report a problem,
 please make a free account on our JIRA and `create a new issue`_.
 
